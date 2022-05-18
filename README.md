@@ -2,7 +2,7 @@
 
 - I’m interested in applying the knowledge I've learned throughout my education to practical, real world problems.
 
-- I’m currently learning data analysis and data scraping. Also very interested in automation and databases.
+- I’m currently learning data analysis. Also very interested in automation and databases.
 
 - I’m looking to collaborate on any type of project, just contact me and let me know the details. I'm really interested in solving all types of problems.
 
