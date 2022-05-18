@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @jakegearhart98
 
-- I’m interested in applying the knowledge I've learned throughout my education to practical real world problems and creating new solutions to them.
+- I’m interested in applying the knowledge I've learned throughout my education to practical, real world problems.
 
 - I’m currently learning data analysis and data scraping. Also very interested in automation and databases.
 
